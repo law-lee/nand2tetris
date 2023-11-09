@@ -23,3 +23,7 @@ output;
 set in %B1111111111111011,  // in = -5
 eval,
 output;
+
+set in %B1111111111111111,  // in = -1
+eval,
+output;
